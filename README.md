@@ -73,8 +73,8 @@ Here is the github link[click here](https://github.com/tejashreehn610-blip/LINEA
 **Objective :**\
  Get hands-on with NumPy and Matplotlib by solving a visual puzzle. You’ll be given a scrambled matrix, and your mission is to decode it into a hidden image using NumPy operations and visualization techniques.\
  **Learnings and Outcomes :**\
- I loaded a flattened NumPy array, used reshape() to reconstruct it into a square 2D image, then applied np.fliplr() to horizontally mirror that half and reconstruct the full face, and finally displayed the complete image with matplotlib.pyplot.imshow() in grayscale—leveraging NumPy’s efficient reshape and flip routines to uncover the hidden picture.\
- ![image](https://raw.githubusercontent.com/tejashreehn610-blip/Level-0-Report-/fed2b8bdb90ed9fb5799c2a9c56ff9caeac1eecf/WhatsApp%20Image%202025-09-15%20at%204.11.55%20PM.jpeg)\
+ Familiarized with numpy operations like reshaping,slicing,transposing,and flipping arrays to decode a jumbled matrix into a hidden image ,this task gave me practical experience with numpy.Additionally,I learned how to use Matplotlib's imshow() function to visualize data,making sure that the dimensions and orientation are correct for a clear display.This exercise improved my knowledge about data manipulation and numerical computing concepts. All things considered ,it improved my capacity to use python libraries for practical applications such as data visualization and image processing\
+ ![image](https://raw.githubusercontent.com/tejashreehn610-blip/Level-0-Report-/7672e008573d3b57472581ccc1c6a3bf36d9924b/Screenshot%202025-09-16%20142606.png)\
 here is the repository[click here](https://github.com/tejashreehn610-blip/task-6)
 
 # TASK 7 CREATE A PORTFOIO WEBPAGE:
